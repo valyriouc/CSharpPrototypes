@@ -5,6 +5,14 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGenerator", "PasswordGenerator\PasswordGenerator.csproj", "{04CE3130-C7B6-42A3-88F7-56FDF23F9393}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidirectional-Relation", "Bidirectional-Relation\Bidirectional-Relation.csproj", "{2671830F-EFBD-465A-A2A0-B89CD4B6DF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingSoftware", "BillingSoftware\BillingSoftware.csproj", "{84FC405F-9170-4708-A097-C0392A827EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Has-Relation", "Has-Relation\Has-Relation.csproj", "{C4DCB881-236A-42DD-A4E6-42952686E81E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverTask", "Kraftfahrzeugfahrer\DriverTask.csproj", "{6A6F37F9-8E0A-4C59-96CC-A544AEAD6AC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +26,21 @@ Global
 		{04CE3130-C7B6-42A3-88F7-56FDF23F9393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04CE3130-C7B6-42A3-88F7-56FDF23F9393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04CE3130-C7B6-42A3-88F7-56FDF23F9393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2671830F-EFBD-465A-A2A0-B89CD4B6DF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2671830F-EFBD-465A-A2A0-B89CD4B6DF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2671830F-EFBD-465A-A2A0-B89CD4B6DF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2671830F-EFBD-465A-A2A0-B89CD4B6DF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FC405F-9170-4708-A097-C0392A827EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FC405F-9170-4708-A097-C0392A827EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FC405F-9170-4708-A097-C0392A827EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FC405F-9170-4708-A097-C0392A827EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DCB881-236A-42DD-A4E6-42952686E81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DCB881-236A-42DD-A4E6-42952686E81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DCB881-236A-42DD-A4E6-42952686E81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DCB881-236A-42DD-A4E6-42952686E81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6F37F9-8E0A-4C59-96CC-A544AEAD6AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6F37F9-8E0A-4C59-96CC-A544AEAD6AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6F37F9-8E0A-4C59-96CC-A544AEAD6AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6F37F9-8E0A-4C59-96CC-A544AEAD6AC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
