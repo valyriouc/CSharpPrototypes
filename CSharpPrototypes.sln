@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverTask", "Kraftfahrzeug
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvroLibrary", "AvroLibrary\AvroLibrary.csproj", "{8A7D0019-D5D6-4D74-8AD9-218C98469113}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParser", "JsonParser\JsonParser.csproj", "{8B7B1E32-A5B0-4145-9D28-48CF6D38CD47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{8A7D0019-D5D6-4D74-8AD9-218C98469113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A7D0019-D5D6-4D74-8AD9-218C98469113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A7D0019-D5D6-4D74-8AD9-218C98469113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7B1E32-A5B0-4145-9D28-48CF6D38CD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7B1E32-A5B0-4145-9D28-48CF6D38CD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7B1E32-A5B0-4145-9D28-48CF6D38CD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7B1E32-A5B0-4145-9D28-48CF6D38CD47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
